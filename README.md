@@ -6,7 +6,7 @@ Fifa is one of the most played console games in the world. Fifa 21 is a series o
 
 
 
-*  [LINK TO NOTEBOOK(PART 1)](https://nbviewer.jupyter.org/github/Gift-Ojeabulu/FIFA2021ANALYSIS/blob/main/MainFIFA2021ANALYSIS-Copy1.ipynb)
+*  [LINK TO NOTEBOOK [PART 1]](https://nbviewer.jupyter.org/github/Gift-Ojeabulu/FIFA2021ANALYSIS/blob/main/MainFIFA2021ANALYSIS-Copy1.ipynb)
 
 
 
