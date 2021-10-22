@@ -8,11 +8,19 @@ Fifa is one of the most played console games in the world. FIFA 21 is a series o
 ![](https://github.com/Gift-Ojeabulu/FIFA2021ANALYSIS/blob/main/FIFA21EDA%20-%20Google%20Slides.gif)
 
 
-## ✅ LINKS
+## ✅ JUPYTER NOTEBOOK
 *  [LINK TO FIFA 21 NOTEBOOK [PART 1]](https://nbviewer.jupyter.org/github/Gift-Ojeabulu/FIFA2021ANALYSIS/blob/main/MainFIFA2021ANALYSIS-Copy1.ipynb)
-*  [LINK TO ARTICLE[ PART 1]](https://pub.towardsai.net/exploratory-data-analysis-expounded-with-fifa-2021-part-1-f20c465d483e)
 *  [LINK TO FIFA 21 NOTEBOOK [PART 2]](https://nbviewer.jupyter.org/github/Gift-Ojeabulu/FIFA2021ANALYSIS/blob/main/MainFIFA2021ANALYSIS.ipynb)
+
+
+## ✅ ARTICLES
+*  [LINK TO ARTICLE[ PART 1]](https://pub.towardsai.net/exploratory-data-analysis-expounded-with-fifa-2021-part-1-f20c465d483e)
+*  [LINK TO ARTICLE[ PART 2]](https://medium.com/geekculture/exploratory-data-analysis-demystified-with-fifa-21-part-2-76209caa24d2)
+
+## ✅ LINKEDIN POSTS
 *  [LINK TO POST ON LINKEDIN [PART 1]](https://www.linkedin.com/posts/gift-ojabu_exploratory-data-analysis-expounded-with-activity-6818496326808948736-PpnG)
+*  [LINK TO POST ON LINKEDIN [PART 2]](https://www.linkedin.com/posts/gift-ojabu_exploratory-data-analysis-demystified-with-activity-6851041695002333184-pRo7)
+
 
 
 
